@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>icons/books.png</file>
+    <file>icons/flat.png</file>
+    <file>icons/settings.png</file>
+    <file>icons/users.png</file>
+    <file>icons/themes.png</file>
+    <file>icons/today.png</file>
+    <file>icons/dashboard.png</file>
+    <file>icons/history.png</file>
+    <file>icons/reports.png</file>
+    <file>icons/add.png</file>
+    <file>icons/search.png</file>
+    <file>icons/edit.png</file>
+    <file>icons/delete.png</file>
+    <file>icons/library.png</file>
+    <file>icons/apply.png</file>
+    <file>icons/schedule.png</file>
+    <file>icons/import.png</file>
+    <file>icons/export.png</file>
+    <file>icons/login.png</file>
+    <file>icons/resend.png</file>
+    <file>icons/eye.png</file>
+</qresource>
+</RCC>
